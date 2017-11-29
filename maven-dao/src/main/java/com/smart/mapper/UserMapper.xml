@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.smart.mapper.UserMapper">
+    <!--<resultMap id="findAll" type="com.smart.domain.User">
+        <id property="uid" column="uid" javaType="Integer"></id>
+        <result property="username" column="username"></result>
+        <result property="userpwd" column="userped"></result>
+    </resultMap>-->
+	<select id="queryAllUser" resultType="user">
+        SELECT * FROM USER
+    </select>
+</mapper>
