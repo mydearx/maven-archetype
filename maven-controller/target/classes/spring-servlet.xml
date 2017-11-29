@@ -11,6 +11,7 @@
         <context:exclude-filter type="annotation" expression="org.springframework.stereotype.Service"></context:exclude-filter>
     </context:component-scan>
     <mvc:annotation-driven/>
+    <mvc:default-servlet-handler/>
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/WEB-INF/"></property>
         <property name="suffix" value=".jsp"></property>

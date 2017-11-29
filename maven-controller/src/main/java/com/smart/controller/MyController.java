@@ -18,9 +18,13 @@ public class MyController {
 
     @RequestMapping("/query")
     public String selectAllUser(Model model) {
-//        System.out.println("the springmvc success!");
         List<User> users = userService.queryAllUser();
         model.addAttribute("users", users);
         return "test/success";
+    }
+
+//    @RequestMapping("/fail")
+    public String failPage() {
+        return "test/fail";
     }
 }

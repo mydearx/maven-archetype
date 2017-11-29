@@ -7,124 +7,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a29edfe3-8b48-4c44-9d86-53ff3c9df9fc" name="Default" comment="SSM 框架的搭建，没有添加事务">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/classes/com/smart/controller/MyController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/classes/com/smart/controller/MyController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/c3p0-0.9.1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/commons-logging-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/jstl-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/log4j-1.2.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/log4j-api-2.0.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/log4j-core-2.0.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/maven-dao-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/maven-service-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/mybatis-3.2.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/mybatis-spring-1.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/mysql-connector-java-5.1.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/spring-aop-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/spring-beans-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/spring-context-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/spring-core-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/spring-expression-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/spring-jdbc-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/spring-tx-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/spring-web-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/spring-webmvc-4.3.12.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/com/smart/dao/UserDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/com/smart/dao/UserDaoImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/com/smart/domain/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/com/smart/mapper/UserMapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/maven-dao-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-service/target/classes/com/smart/service/UserService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-service/target/maven-service-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/maven_controller_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/maven_controller_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_12_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-archetype.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/.rebel-remote.xml.bak" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/.rebel.xml.bak" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/maven-controller.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/src/main/java/com/smart/controller/MyController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/src/main/resources/log4j2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/src/main/resources/spring-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/test/success.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/classes/log4j2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/classes/spring-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/classes/log4j2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/classes/spring-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/test/success.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/maven-dao.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/src/main/java/com/smart/dao/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/src/main/java/com/smart/dao/UserDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/src/main/java/com/smart/domain/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/src/main/java/com/smart/mapper/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/src/main/java/com/smart/mapper/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/src/main/resources/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/src/main/resources/log4j2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/src/main/resources/spring-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/src/main/resources/sqlMapConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/com/smart/mapper/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/java/com/smart/dao/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/java/com/smart/dao/UserDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/java/com/smart/domain/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/java/com/smart/mapper/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/java/com/smart/mapper/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/log4j2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/resources/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/resources/log4j2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/resources/spring-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/resources/sqlMapConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/spring-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/classes/sqlMapConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-service/maven-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-service/src/main/java/com/smart/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-service/src/main/resources/spring-service.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-service/target/classes/spring-service.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-service/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/src/main/resources/rebel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/test/fail.jsp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-controller/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-controller/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-dao/target/classes/java/com/smart/dao/UserDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-dao/target/classes/java/com/smart/dao/UserDaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-dao/target/classes/java/com/smart/domain/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-dao/target/classes/java/com/smart/mapper/UserMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-dao/target/classes/java/com/smart/mapper/UserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-dao/target/classes/resources/db.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-dao/target/classes/resources/log4j2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-dao/target/classes/resources/spring-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-dao/target/classes/resources/sqlMapConfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-dao/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-dao/target/maven-dao-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-service/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-service/target/maven-service-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maven-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maven-controller/target/classes/com/smart/controller/MyController.class" afterPath="$PROJECT_DIR$/maven-controller/target/classes/com/smart/controller/MyController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/classes/com/smart/controller/MyController.class" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/classes/com/smart/controller/MyController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/maven-dao-1.0.jar" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/maven-dao-1.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/maven-service-1.0.jar" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/lib/maven-service-1.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maven-controller/src/main/java/com/smart/controller/MyController.java" afterPath="$PROJECT_DIR$/maven-controller/src/main/java/com/smart/controller/MyController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maven-controller/src/main/resources/spring-servlet.xml" afterPath="$PROJECT_DIR$/maven-controller/src/main/resources/spring-servlet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maven-controller/target/classes/spring-servlet.xml" afterPath="$PROJECT_DIR$/maven-controller/target/classes/spring-servlet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/classes/spring-servlet.xml" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/classes/spring-servlet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/maven-controller/target/maven-controller-1.0/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maven-dao/pom.xml" afterPath="$PROJECT_DIR$/maven-dao/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -155,65 +68,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maven-dao/src/main/java/com/smart/mapper/UserMapper.xml">
+      <file leaf-file-name="MyController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/maven-controller/src/main/java/com/smart/controller/MyController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="-6">
+              <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
               <folding>
-                <marker date="1511883201271" expanded="true" signature="524:542" ph="SELECT * FRO... USER" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maven-controller/src/main/webapp/index.jsp">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="225">
+              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maven-service/src/main/java/com/smart/service/UserService.java">
+      <file leaf-file-name="spring-servlet.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maven-controller/src/main/resources/spring-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="228">
+              <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spring-service.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maven-service/src/main/resources/spring-service.xml">
+      <file leaf-file-name="fail.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/test/fail.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/maven-dao/src/main/java/com/smart/dao/UserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="success.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/test/success.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="315">
+              <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -222,41 +114,9 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/maven-dao/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="720">
+              <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring-config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maven-dao/src/main/resources/spring-config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maven-dao/src/main/java/com/smart/dao/UserDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -266,9 +126,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -296,7 +156,6 @@
         <option value="$PROJECT_DIR$/maven-service/src/main/resources/spring-service.xml" />
         <option value="$PROJECT_DIR$/maven-dao/src/main/resources/spring-dao.xml" />
         <option value="$PROJECT_DIR$/maven-dao/src/main/java/com/smart/dao/impl/UserDaoImplImpl.java" />
-        <option value="$PROJECT_DIR$/maven-controller/src/main/resources/spring-servlet.xml" />
         <option value="$PROJECT_DIR$/maven-controller/src/main/resources/rebel.xml" />
         <option value="$PROJECT_DIR$/maven-service/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -307,17 +166,19 @@
         <option value="$PROJECT_DIR$/maven-dao/src/main/java/com/smart/mapper/UserDao.java" />
         <option value="$PROJECT_DIR$/maven-dao/src/main/java/com/smart/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/maven-controller/pom.xml" />
-        <option value="$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/maven-dao/src/main/java/com/smart/mapper/UserMapper.xml" />
         <option value="$PROJECT_DIR$/maven-dao/src/main/resources/sqlMapConfig.xml" />
         <option value="$PROJECT_DIR$/maven-dao/src/main/resources/spring-config.xml" />
         <option value="$PROJECT_DIR$/maven-controller/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/maven-dao/pom.xml" />
         <option value="$PROJECT_DIR$/maven-dao/src/main/java/com/smart/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/maven-service/src/main/java/com/smart/service/UserService.java" />
-        <option value="$PROJECT_DIR$/maven-controller/src/main/java/com/smart/controller/MyController.java" />
         <option value="$PROJECT_DIR$/maven-dao/src/main/java/com/smart/dao/UserDaoImpl.java" />
         <option value="$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/test/success.jsp" />
+        <option value="$PROJECT_DIR$/maven-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/test/fail.jsp" />
+        <option value="$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/maven-controller/src/main/resources/spring-servlet.xml" />
+        <option value="$PROJECT_DIR$/maven-controller/src/main/java/com/smart/controller/MyController.java" />
       </list>
     </option>
   </component>
@@ -359,6 +220,15 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="maven-controller" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="maven-controller" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="maven-dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -375,8 +245,8 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="904" />
-    <option name="y" value="158" />
+    <option name="x" value="197" />
+    <option name="y" value="68" />
     <option name="width" value="1514" />
     <option name="height" value="963" />
   </component>
@@ -406,6 +276,76 @@
               <item name="maven-archetype" type="b2602c69:ProjectViewProjectNode" />
               <item name="maven-archetype" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="maven-archetype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-archetype" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven-archetype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-archetype" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven-archetype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-archetype" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven-archetype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-archetype" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven-archetype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-archetype" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven-archetype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-archetype" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven-archetype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-archetype" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven-archetype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-archetype" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven-archetype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-archetype" type="462c0819:PsiDirectoryNode" />
+              <item name="maven-controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -422,6 +362,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/maven-controller/src/main/web" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.smart.dao.impl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Program Files\WebProject\maven-archetype\maven-dao\target\classes\com\smart\mapper" />
+      <recent name="F:\Program Files\WebProject" />
+      <recent name="F:\Program Files\WebProject\maven-archetype\maven-controller\src\main\resources" />
+      <recent name="F:\Program Files\WebProject\maven-archetype\maven-dao\src\main\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.smart.mapper" />
     </key>
@@ -431,17 +383,6 @@
       <recent name="F:\Program Files\WebProject\maven-archetype\maven-dao\src\main\resources" />
       <recent name="F:\Program Files\WebProject\maven-archetype\maven-service\src\main\resources" />
       <recent name="F:\Program Files\WebProject\maven-archetype\maven-dao\src\main\java\com\smart\mapper" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.smart.dao.impl" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Program Files\WebProject" />
-      <recent name="F:\Program Files\WebProject\maven-archetype\maven-controller\src\main\resources" />
-      <recent name="F:\Program Files\WebProject\maven-archetype\maven-dao\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -642,12 +583,20 @@
       <updated>1511862388260</updated>
       <workItem from="1511862389830" duration="14986000" />
       <workItem from="1511879508194" duration="7869000" />
-      <workItem from="1511943309956" duration="3144000" />
+      <workItem from="1511943309956" duration="7456000" />
     </task>
+    <task id="LOCAL-00001" summary="SSM 框架的搭建，没有添加事务">
+      <created>1511949129983</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511949129983</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25999000" />
+    <option name="totallyTimeSpent" value="30311000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -659,46 +608,82 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="904" y="158" width="1514" height="963" extended-state="0" />
+    <frame x="197" y="68" width="1514" height="963" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33857316" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24667473" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.50208455" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18827586" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38452238" sideWeight="0.49791542" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34945586" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38349515" sideWeight="0.49791542" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2551724" sideWeight="0.48056537" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22156045" sideWeight="0.50948906" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21679571" sideWeight="0.51943463" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995832" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24955331" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35436893" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33737865" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4830097" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34830096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2537931" sideWeight="0.47435898" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22156045" sideWeight="0.50948906" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25448275" sideWeight="0.525641" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3555018" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SSM 框架的搭建，没有添加事务" />
+    <option name="LAST_COMMIT_MESSAGE" value="SSM 框架的搭建，没有添加事务" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -746,7 +731,7 @@
         <state relative-caret-position="225">
           <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -810,14 +795,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring-service.xml" />
     <entry file="file://$PROJECT_DIR$/maven-controller/src/main/resources/rebel.xml" />
     <entry file="file://$PROJECT_DIR$/maven-dao/src/main/java/com/smart/dao/UserDao.java" />
-    <entry file="file://$PROJECT_DIR$/maven-controller/src/main/resources/spring-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maven-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -839,6 +816,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -853,13 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-225">
           <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -876,13 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-208">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maven-controller/src/main/java/com/smart/controller/MyController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
           <folding />
         </state>
       </provider>
@@ -926,7 +890,7 @@
         <state relative-caret-position="675">
           <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -947,14 +911,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maven-dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/test/success.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
@@ -965,10 +921,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/maven-dao/src/main/java/com/smart/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="227">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/test/fail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven-controller/src/main/resources/spring-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven-controller/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven-controller/src/main/java/com/smart/controller/MyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1028,7 +1027,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JRebel|maven-controller</last-edited>
+          <last-edited>maven-service</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
