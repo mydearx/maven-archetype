@@ -54,7 +54,7 @@
             <resource>
                 <directory>src/main/java</directory>
                 <includes>
-                    <include>**/*.java</include>
+                    <include>**/*.hello</include>
                 </includes>
             </resource>
             <!--<resource>
