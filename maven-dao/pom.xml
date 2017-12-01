@@ -63,10 +63,6 @@
                     <exclude>**/*.java</exclude>
                 </excludes>
             </resource>-->
-			<directory>src/main/java</directory>
-                <includes>
-                    <include>**/*.xml</include>
-                </includes>
         </resources>
     </build>
 </project>
